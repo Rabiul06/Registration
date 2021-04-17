@@ -1,0 +1,50 @@
+#main
+{
+width:1200px;
+height:600px;
+background-color:Gray;
+/*background-image: url('abstract.jpg');*/
+margin:auto;
+}
+#p1
+{
+ position: absolute;
+  left: 200px;
+  top: 40px;
+}
+#p2
+{
+width:200px;
+height:45px;
+ position: absolute;
+  left:168px;
+  top: 140px;
+  background-color:white;
+
+
+}
+#reg
+{
+width:400px;
+height:400px;
+background-color:LightGray;
+position: absolute;
+  left: 500px;
+  top: 140px;
+  border-radius:15px;
+
+}
+#p3
+{
+width:400px;
+height:50px;
+ position: absolute;
+  top: 50px;
+  background-color:white;
+
+
+}
+#p4
+{
+	margin:0 auto;
+}
